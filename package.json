@@ -1,9 +1,9 @@
 {
-    "name": "cordova-plugin-zeroconf",
-    "version": "1.4.2",
+    "name": "cordova-plugin-zeroconf-latest",
+    "version": "1.4.3",
     "description": "Cordova ZeroConf plugin",
     "cordova": {
-        "id": "cordova-plugin-zeroconf",
+        "id": "cordova-plugin-zeroconf-latest",
         "platforms": [
             "android",
             "ios"
